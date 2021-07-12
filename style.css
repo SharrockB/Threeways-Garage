@@ -35,7 +35,7 @@ body {
     to right bottom,
     rgba(111, 201, 213, 0.8),
     rgba(40, 77, 180, 0.8)), 
-  url(https://github.com/SharrockB/threeways/blob/main/img/background.jpg) ; 
+  url(./img/background.jpg) ; 
   
   
   background-size: cover;
